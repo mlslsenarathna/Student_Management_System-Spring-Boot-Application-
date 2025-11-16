@@ -19,6 +19,6 @@ public class StudentEntity {
     private String firstName;
     private String secondName;
     private String contactNo;
-    private String Email;
+    private String email;
     private LocalDate dob;
 }
